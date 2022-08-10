@@ -1,0 +1,13 @@
+.quiz-choices {
+  display: flex;
+  justify-content: space-between;
+}
+
+.quiz-choice {
+  font-size: xx-large;
+}
+
+.quiz-wrong-label {
+  color: crimson;
+  font-size: large;
+}
